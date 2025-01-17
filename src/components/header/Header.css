@@ -1,0 +1,12 @@
+.bg-default{
+  background: #008C8C;
+  width: 100%;
+  min-height: 120px;
+  text-align: center;
+  z-index: 0;
+}
+
+.text-default{
+  padding-top: 10px;
+  color: #fff;
+}
